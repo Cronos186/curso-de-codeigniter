@@ -11,3 +11,6 @@
 <p>
 	En el repositorio se encuentra la carpeta <code>config</code> que posee los archivos <code>autoload.php</code> y <code>routes.php</code> configurados de la misma manera que en el video. En la carpeta <code>controllers</code> se encuentra el controlador <code>home.php</code>. La carpeta <code>models</code> posee el modelo <code>articulos_model.php</code>. Finalmente en la carpeta <code>views</code> se encuentra la vista <code>index.php</code> utilizada para mostrar el listado de artículos obtenida desde la base de datos.
 </p>
+<p>
+	<b>Nota:</b> Tanto el controlador, como el modelo y la vista poseen comentarios con los códigos alternativos utilizados.
+</p>
