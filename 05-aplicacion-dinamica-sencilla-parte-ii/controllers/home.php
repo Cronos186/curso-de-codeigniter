@@ -10,6 +10,7 @@ class Home extends CI_Controller {
 		// $this->load->model('Articulos_model','art');
 	}
 
+	// Muestra la vista principal con el listado de articulos
 	function index() {
 		$datos['articulos'] = $this->Articulos_model->lista_articulos();
 
