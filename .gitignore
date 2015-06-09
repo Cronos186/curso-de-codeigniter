@@ -13,21 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Icon must ends with two \r.
-Icon
-
+*.exe
 
 # Thumbnails
 ._*
@@ -36,5 +22,9 @@ Icon
 .Spotlight-V100
 .Trashes
 
+# Sublime text files
 *.sublime-project
 *.sublime-workspace
+
+# PHPStorm files
+.idea
