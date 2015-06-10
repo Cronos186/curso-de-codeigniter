@@ -7,6 +7,7 @@
  * con los articulos
  *
  * @author Eborio Linarez <contacto@todoprogramacion.com.ve>
+ * @link   http://todoprogramacion.com.ve
  */
 class Home extends CI_Controller
 {

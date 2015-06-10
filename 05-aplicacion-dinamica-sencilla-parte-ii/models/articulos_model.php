@@ -1,9 +1,22 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Articulos_model extends CI_Model {
-
-	// Genera el listado de articulos
-	function lista_articulos() {
+/**
+ * Clase Articulos_model
+ *
+ * Modelo para interactuar con los datos de los articulos
+ *
+ * @author Eborio Linarez <contacto@todoprogramacion.com.ve>
+ * @link   http://todoprogramacion.com.ve
+ */
+class Articulos_model extends CI_Model
+{
+	/**
+     * Obtiene el listado de articulos
+     * 
+     * @return object Datos de los articulos
+     */
+	public function lista_articulos()
+    {
 		$this->db->order_by('id_articulo', 'desc');
 		$consulta = $this->db->get('articulos');
 		return $consulta->result();
