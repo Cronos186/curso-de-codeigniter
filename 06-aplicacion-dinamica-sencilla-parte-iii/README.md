@@ -20,4 +20,4 @@ Para la versión de consulta mediante la URL, necesitamos también crear un ruta
 
 `views`: contiene las vistas `index.php` y `detalle.php`.
 
-**Nota: Tanto el controlador, como el modelo, la vistas y el archivo de ruteo poseen comentarios con los códigos alternativos utilizados.
+**Nota:** Tanto el controlador, como el modelo, la vistas y el archivo de ruteo poseen comentarios con los códigos alternativos utilizados.

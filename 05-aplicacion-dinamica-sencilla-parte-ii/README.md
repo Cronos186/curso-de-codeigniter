@@ -20,4 +20,4 @@ Finalmente enviamos los datos de manera dinámica a la vista `index.php` y hacem
 
 Finalmente se incluye el archivo `.htaccess`.
 
-**Nota: Tanto el controlador, como el modelo y la vista poseen comentarios con los códigos alternativos utilizados.
+**Nota:** Tanto el controlador, como el modelo y la vista poseen comentarios con los códigos alternativos utilizados.
