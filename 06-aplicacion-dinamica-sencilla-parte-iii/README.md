@@ -4,9 +4,9 @@ Finalizamos nuestra aplicación dinámica sencilla. Ahora nos ocupamos de brinda
 
 Desarrollamos tres versiones diferentes para la consulta de los detalles del artículo:
 
--Mediante el ID del artículo
--Mediante el nombre del artículo
--Mediante la URL del artículo (método recomendado)
+- Mediante el ID del artículo
+- Mediante el nombre del artículo
+- Mediante la URL del artículo (método recomendado)
 
 Para la versión de consulta mediante la URL, necesitamos también crear un ruta diferente en nuestro `routes.php` así como un campo nuevo en la base de datos.
 
