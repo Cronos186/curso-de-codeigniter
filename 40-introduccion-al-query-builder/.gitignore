@@ -1,1 +1,11 @@
-system/
+# Sublime Text configuration
+*.sublime-*
+
+# CodeIgniter
+system/*
+
+# Packages
+assets/packages/*
+
+# Logs
+application/logs/
