@@ -1,3 +1,5 @@
+# Primeros pasos
+
 Comenzamos nuestro trabajo con el framework. Accedemos por primera vez a la instalación de CodeIgniter desde el navegador y vemos la vista de bienvenida que posee por defecto la instalación.
 
 En primer lugar aprendemos a cambiar el entorno de trabajo mediante el `index.php`.
