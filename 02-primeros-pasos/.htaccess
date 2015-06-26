@@ -1,0 +1,31 @@
+<ifModule mod_rewrite.c>
+	# ----------------------------------------------------------------------
+	# Activar el ModRewrite
+	# ----------------------------------------------------------------------
+	RewriteEngine on
+
+	# ----------------------------------------------------------------------
+	# Borrar el index.php de las URL's
+    # Debes especificar los archivos de assets que poseas dentro de tu 
+    # aplicacion
+    #
+    # Ejemplo:
+    # RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml|assets)
+    # 
+    # ó
+    #
+    # RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml|css|js|img)
+	# ----------------------------------------------------------------------
+	RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml)
+	RewriteRule ^(.*)$ index.php/$1 [L]
+</ifModule>
+
+# Si tienes problemas con el .htaccess anterior prueba con el siguiente
+# eliminando los comentarios
+
+# -------------------------------------------------------------------------
+# RewriteEngine On
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(.*)$ index.php/$1 [L]
+# -------------------------------------------------------------------------
