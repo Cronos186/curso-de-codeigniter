@@ -1,0 +1,21 @@
+{
+  "name": "fotorueda",
+  "version": "1.0.0",
+  "authors": [
+    "Eborio Linárez <contacto@todoprogramacion.com.ve>"
+  ],
+  "description": "Proyecto de FotoRueda",
+  "main": "index.php",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}
