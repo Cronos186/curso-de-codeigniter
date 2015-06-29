@@ -25,3 +25,14 @@ Si puedes apreciar un mensaje similar a este
 - `Message: Cannot modify header information - headers already sent by`
 
 Y observas todo el código PHP de tu controlador en la salida del navegador es porque estás utilizando las etiquetas cortas de PHP `<?` las cuales no están soportadas por las versiones actuales de PHP. Siempre utiliza las etiquetas largas `<?php` para evitar este problema.
+
+# Archivos del curso de CodeIgniter
+
+En este repositorio podrás encontrar todos los archivos utilizados en el [curso de CodeIgniter](http://todoprogramacion.com.ve/cursos/codeigniter) al cual podrás acceder haciendo clic al enlace anterior.
+
+Todos los archivos utilizados en los videos se irán publicando en carpetas numeradas con su respectivo nombre para que sean de fácil acceso a todos los participantes del curso.
+
+Dentro de cada carpeta encontrarás un archivo README.md con la descripción de los archivos contenidos en tal carpeta.
+
+Para otros tutoriales y artículos accede a mi sitio web http://todoprogramacion.com.ve
+

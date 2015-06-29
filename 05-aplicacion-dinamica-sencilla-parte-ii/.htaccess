@@ -1,0 +1,18 @@
+<ifModule mod_rewrite.c>
+    # ----------------------------------------------------------------------
+    # Activate Rewrite Engine
+    # ----------------------------------------------------------------------
+    RewriteEngine on
+
+    # ----------------------------------------------------------------------
+    # Delete the index.php from URL's
+    # Especify the necesary directories or files depending of your
+    # necesities.
+    # Example:
+    # RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml|assets)
+    # or
+    # RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml|css|js|img)
+    # ----------------------------------------------------------------------
+    RewriteCond $1 !^(index\.php|robots\.txt|sitemap\.xml)
+    RewriteRule ^(.*)$ index.php/$1 [L]
+</ifModule>
