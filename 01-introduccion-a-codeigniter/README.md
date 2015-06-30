@@ -1,6 +1,6 @@
 # Introducción a CodeIgniter
 
-En este primer video del curso de CodeIgniter vemos una breve introducción al framework. Es decir, aprendiendo a descargarlo, instalarlo y analizar su estructura de archivos.
+En este primer video del curso de CodeIgniter vemos una breve introducción al framework. Es decir, aprendemos como descargarlo, instalarlo y analizar su estructura de archivos para irnos familiarizando con el framework.
 
 Así mismo también vemos:
 
@@ -9,12 +9,12 @@ Así mismo también vemos:
 - ¿Qué es un Framework?
 - Patrón MVC (Model - View - Controller)
 
-También vemos muy por encima la guía de usuario que pone a nuestra disposición Ellislab.
+También vemos muy por encima la guía de usuario que pone a nuestra disposición British Columbia Institute of Technology (anteriormente Ellislab).
 
 Dentro de este repositorio puedes encontrar la documentación en español para la versión 2.1.4 (para lectura offline). Pueden encontrar referencias al autor original de la guía en [este foro](http://foro.escodeigniter.com/viewtopic.php?f=5&t=812).
 
 ## Lecturas recomendadas
 
-- [Guía de usuario de CodeIgniter 2.1.4](http://www.codeigniter.com/)
+- [Guía de usuario de CodeIgniter 2.1.4](http://www.codeigniter.com/userguide2/)
 - [Guía de usuario de CodeIgniter 3.0.0](http://www.codeigniter.com/user_guide/)
-- [Patrón MVC (Model - View - Controller)](http://todoprogramacion.com.ve/articulos/codeigniter/patron-mvc-model-view-controller)
+- [Patrón MVC (Model - View - Controller)](http://todoprogramacion.com.ve/articulos/desarrollo-web/patron-mvc-model-view-controller)
