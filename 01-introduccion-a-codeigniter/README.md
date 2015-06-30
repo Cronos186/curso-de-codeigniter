@@ -11,7 +11,7 @@ Así mismo también vemos:
 
 También vemos muy por encima la guía de usuario que pone a nuestra disposición British Columbia Institute of Technology (anteriormente Ellislab).
 
-Dentro de este repositorio puedes encontrar la documentación en español para la versión 2.1.4 (para lectura offline). Pueden encontrar referencias al autor original de la guía en [este foro](http://foro.escodeigniter.com/viewtopic.php?f=5&t=812).
+Dentro de este directorio puedes encontrar la documentación en español para la versión 2.1.4 (para lectura offline). Pueden encontrar referencias al autor original de la guía en [este foro](http://foro.escodeigniter.com/viewtopic.php?f=5&t=812).
 
 ## Lecturas recomendadas
 

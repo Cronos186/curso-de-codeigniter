@@ -4,4 +4,4 @@ En este video configuramos el lenguaje español en nuestra instalación de CodeI
 
 Si desean el paquete original desde donde realicé el fork lo pueden encontrar en [este repositorio](https://github.com/rasec/CodeIgniter-Spanish-Pack).
 
-También utilizamos el archivo constants.php para evitar configurar de manera manual nuestra URL base.
+También utilizamos el archivo `constants.php` para evitar configurar de manera manual nuestra URL base. En este directorio puedes encontrar tal archivo para que lo utilices en tus proyectos.

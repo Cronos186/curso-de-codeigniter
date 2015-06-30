@@ -10,7 +10,7 @@ Ademas aprendemos la manera correcta de nombrar un controlador, tanto la clase c
 
 **Importante:** Debes aprender de que manera llamar a los controladores y métodos desde la URL ya que es la única forma de acceder a ellos.
 
-**NOTA IMPORTANTE:** CodeIgniter requiere un archivo `.htaccess` para eliminar el `index.php` de la URL y para que los redireccionamientos funcionen correctamente. En este repositorio se encuentra dicho archivo para que lo utilices en tus proyectos.
+**NOTA IMPORTANTE:** CodeIgniter requiere un archivo `.htaccess` para eliminar el `index.php` de la URL y para que los redireccionamientos funcionen correctamente. En este directorio se encuentra dicho archivo para que lo utilices en tus proyectos.
 
 ## Lecturas recomendadas
 
