@@ -6,4 +6,8 @@ El paquete de idiomas usado en el videotutorial ya no está disponible en la act
 
 Si desean el paquete original desde donde realicé el fork lo pueden encontrar en [este repositorio](https://github.com/rasec/CodeIgniter-Spanish-Pack).
 
-También utilizamos el archivo `constants.php` para evitar configurar de manera manual nuestra URL base. En este directorio puedes encontrar dicho archivo tanto para CodeIgniter 2 como para CodeIgniter 3 llamados `constants_ci_2.php` y `constants_ci_3.php` respectivamente.
+También utilizamos el archivo `constants.php` para evitar configurar de manera manual nuestra URL base.
+
+En este directorio puedes encontrar dicho archivo tanto para CodeIgniter 2 como para CodeIgniter 3 llamados `constants_ci_2.php` y `constants_ci_3.php` respectivamente.
+
+**Nota:** Debes renombrar el archivo a utilizar a `contatns.php`.
