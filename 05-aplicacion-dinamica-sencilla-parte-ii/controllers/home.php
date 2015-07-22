@@ -17,7 +17,7 @@ class Home extends CI_Controller
     public function __construct()
     {
         parent::__construct();
-        
+
         // Cargar un modelo de manera basica
         $this->load->model('Articulos_model');
 
@@ -27,7 +27,7 @@ class Home extends CI_Controller
 
     /**
      * Muestra la vista principal con el listado de articulos
-     * 
+     *
      * @return view Vista principal
      */
     public function index()
