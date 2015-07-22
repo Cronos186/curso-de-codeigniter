@@ -4,7 +4,7 @@ Comenzamos nuestro trabajo con el framework. Accedemos por primera vez a la inst
 
 En primer lugar aprendemos a cambiar el entorno de trabajo mediante el `index.php`.
 
-Modificamos la vista de bienvenida `welcome_message.php` y el controlador `welcome`.
+Modificamos la vista de bienvenida `welcome_message.php` y el controlador `welcome.php`.
 
 Ademas aprendemos la manera correcta de nombrar un controlador, tanto la clase como el archivo que la contiene siguiendo la guía de estilos de CodeIgniter, así como configurar el controlador por defecto mediante el archivo `routes.php`.
 
