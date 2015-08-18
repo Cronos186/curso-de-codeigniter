@@ -17,10 +17,10 @@ Dentro de este directorio puedes encontrar la documentación en español para la
 
 ## Lecturas recomendadas
 
-- [Guía de usuario de CodeIgniter 2.1.4](http://www.codeigniter.com/userguide2/)
-- [Guía de usuario de CodeIgniter 3.0.0](http://www.codeigniter.com/user_guide/)
+- [Guía de usuario de CodeIgniter 2.*](http://www.codeigniter.com/userguide2/)
+- [Guía de usuario de CodeIgniter 3.*](http://www.codeigniter.com/user_guide/)
 - [Patrón MVC (Model - View - Controller)](http://todoprogramacion.com.ve/articulos/desarrollo-web/patron-mvc-model-view-controller)
 
 ## Descargas
 
-Video: https://mega.nz/#!KBFnzIAb!dHVYDX4jNcxb6Bo0MaKqMOQQ67nh93ayfVvhhoLYbFI
+Video: http://www.linkbucks.com/C1Z9L
