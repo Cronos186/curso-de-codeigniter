@@ -15,3 +15,7 @@ Ademas aprendemos la manera correcta de nombrar un controlador, tanto la clase c
 ## Lecturas recomendadas
 
 - [Importancia del archivo .htaccess](http://todoprogramacion.com.ve/articulos/apache/importancia-del-archivo-htaccess)
+
+## Descargas
+
+Video: https://mega.nz/#!iJNxTAhL!pFnoFmf9JlH35x4Th6k6Hx5cA9-Vt0rP6Jia2jwHD0c
