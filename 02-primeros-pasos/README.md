@@ -15,4 +15,7 @@ Ademas aprendemos la manera correcta de nombrar un controlador, tanto la clase c
 ## Lecturas recomendadas
 
 - [Importancia del archivo .htaccess](http://todoprogramacion.com.ve/articulos/apache/importancia-del-archivo-htaccess)
-- [Generar URL's limpias con CodeIgniter](http://todoprogramacion.com.ve/articulos/codeigniter/generar-urls-limpias-con-codeigniter)
+
+## Descargas
+
+Video: http://www.linkbucks.com/C3fey
