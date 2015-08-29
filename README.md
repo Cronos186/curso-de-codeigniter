@@ -6,7 +6,7 @@ Todos los archivos utilizados en los videos se irán publicando en directorios e
 
 Dentro de cada directorio encontrarás un archivo `README.md` con la descripción de los archivos contenidos en tal directorio.
 
-Para otros tutoriales y artículos accede a mi sitio web [http://todoprogramacion.com.ve](http://todoprogramacion.com.ve).
+Para otros tutoriales y artículos accede a mi sitio web http://todoprogramacion.com.ve.
 
 ## Problemas frecuentes
 
