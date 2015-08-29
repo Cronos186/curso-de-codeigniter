@@ -10,7 +10,7 @@ También utilizamos el archivo `constants.php` para evitar configurar de manera 
 
 En este directorio puedes encontrar dicho archivo tanto para CodeIgniter 2 como para CodeIgniter 3 llamados `constants_ci_2.php` y `constants_ci_3.php` respectivamente.
 
-**Nota:** Debes renombrar el archivo a utilizar a `contatns.php`, de lo contrario CodeIgniter no lo reconocerá.
+**Nota:** Debes renombrar el archivo a utilizar a `constants.php`, de lo contrario CodeIgniter no lo reconocerá.
 
 ## Descargas
 
