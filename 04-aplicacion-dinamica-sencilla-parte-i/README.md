@@ -10,9 +10,8 @@ Dentro de este directorio encontraran tanto el archivo `aplicacion.mwb` que les 
 
 ## Lecturas recomendadas
 
-- [Crear un dominios virtuales en Windows]()
-- [Crear un dominios virtuales en Linux]()
+- [Crear un dominios virtuales en Windows con XAMPP](http://todoprogramacion.com.ve/articulos/windows/crear-dominios-virtuales-en-windows-con-xampp)
 
 ## Descargas
 
-Video:
+Video: http://www.linkbucks.com/C6R8P
