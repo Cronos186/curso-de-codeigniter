@@ -9,3 +9,5 @@
 
 # Logs
 */application/logs/*
+
+vendor/*
