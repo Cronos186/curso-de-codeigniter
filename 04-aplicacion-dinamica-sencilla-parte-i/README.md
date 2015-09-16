@@ -2,7 +2,7 @@
 
 En este video iniciamos el desarrollo de un **aplicación dinámica sencilla** (Blog funcional) para irnos adaptando al trabajo con el framework.
 
-Para ello iniciamos creando la base de datos a utilizar empleando para ello el software **WorkBench** para ahorrarnos cierto trabajo y evitar errores a la hora de la creación de las tablas.
+Para ello iniciamos creando la base de datos a utilizar empleando el software **WorkBench** para ahorrarnos cierto trabajo y evitar errores a la hora de la creación de las tablas.
 
 Para comenzar a realizar la aplicación utilizaremos una instalación limpia de **CodeIgniter**. También crearemos un **dominio virtual** mediante el cual accederemos de una manera mucho más sencilla a la aplicación y finalmente configuraremos la conexión a la base de datos.
 
