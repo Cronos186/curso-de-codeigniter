@@ -11,7 +11,7 @@ Así mismo también vemos:
 - ¿Qué es un Framework?
 - Patrón MVC (Model - View - Controller)
 
-También vemos muy brevemente la guía de usuario que pone a nuestra disposición British Columbia Institute of Technology, el cual está encargado actualmente del mantenimiento de CodeIgniter. Anteriormente lo realizaba Ellislab.
+Por otra parte visualizamos la guía de usuario que pone a nuestra disposición British Columbia Institute of Technology, el cual está encargado actualmente del mantenimiento de CodeIgniter. Anteriormente lo realizaba Ellislab.
 
 Dentro de este directorio puedes encontrar la documentación en español para la versión 2.1.4 (para lectura offline). Pueden encontrar referencias al autor original de la guía en [este foro](http://foro.escodeigniter.com/viewtopic.php?f=5&t=812).
 
