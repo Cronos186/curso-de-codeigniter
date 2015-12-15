@@ -2,7 +2,7 @@
 
 Bienvenidos a este **curso de CodeIgniter** dirigido a todos aquéllos desarrolladores que desean aprender a utilizar este **framework PHP** para llevar a cabo sus aplicaciones web de una manera más sencilla y rápida. Después de aprender a utilizar este potente framework te darás cuenta de que es mucho más eficiente desarrollar utilizando un framework que haciendo todo **"a código"**.
 
-En este primer video del curso de CodeIgniter vemos una breve **introducción al framework**. Es decir, aprendemos como **descargarlo, instalarlo y analizar su estructura de archivos** para irnos familiarizando con el framework.
+En este **primer video del curso de CodeIgniter** vemos una breve **introducción al framework**. Es decir, aprendemos como **descargarlo, instalarlo y analizar su estructura de archivos** para irnos familiarizando con el framework.
 
 Así mismo también vemos:
 
